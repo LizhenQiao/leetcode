@@ -1,0 +1,106 @@
+20211101
+复习：871√, 208√, 211*√, 137*√, 260*√
+最大公约数: 914, 365**
+
+20211103
+复习: 211*, 137**√
+并查集 684*, 721**, 990*√
+
+20211104
+复习: 211√, 684√, 990√
+单调栈: 739*√, 42*, 84*
+
+20211106
+复习: 739*√, 42*√, 84*
+Amazon top questions.  
+Arrays and Strings
+1, 3, 8*, 11, 12*, 13, 15, 16, 28
+
+20211107
+复习: 739√, 42√, 84*√, 8√, 12√
+Amazon top questions.  
+Arrays and Strings
+48, 49, 76*, 165, 238, 268, 273*
+
+20211108
+复习: 84√, 76√, 273*√
+Amazon top questions.  
+Arrays and Strings
+387, 20, 819*√, 937*, 42
+Amazon top questions.  
+Linked Lists
+2, 21, 25*, 138, 206, 23*(还没仔细看解答， 晚上看吧)
+
+20211109
+复习: 273*√, 819, 937*√, 25*√, 23*
+Amazon top questions.  
+Trees and Graphs
+98*, 101, 102, 103, 124
+
+20211110
+复习: 273√, 937√, 25√, 23√, 98√
+Amazon top questions.  
+Trees and Graphs
+127*, 126* 
+
+20211111
+Amazon top questions.  
+Trees and Graphs
+**Graph相关的算法题还是没怎么掌握好，需要大量练一些题，集中功课**
+127*, 126*, 200, 207*, 236*, 543, 675**, 733
+Amazon top questions.  
+Recursion
+17*√, 22√, 79, 212**(前缀树)
+
+20211112
+复习: 127*√, 126*, 207*√, 236√, 17√
+Amazon top questions.  
+Dynamic Programming
+5*√, 53, 121, 139*√, 322
+Amazon top questions.  
+
+20211113
+复习: 127√, 126*√, 207√, 5√, 139√
+Amazon top questions.  
+675*,
+
+20211115
+复习: 126*√, 675**√
+Amazon top questions.  
+Sorting and Searching
+4**,  33*, 56*√, 167, 215*√, 253, 347, 973
+排序相关（如二分法, 包括快速排序等排序算法， Quick select算法）掌握不太好，也需要重点攻克一下
+(且之后要更认真仔细的去做每一道题了，之前的做法太过粗糙，之后每一种解法和
+时间复杂度分析要更认真的重点解决一下)
+
+20211116
+复习: 126√, 33√, 56√, 215
+Amazon top questions.  
+others
+7, 763*√
+
+20211118
+复习: 763*√
+Amazon top questions.  
+others
+957*
+Amazon top questions.  
+Design
+146*(double-linked list要专门学习掌握一下),  155, 295*, 297*, 348, 642**, 895
+
+20211119
+复习: 763√, 957√, 146*√, 295√, 297*√
+Amazon top questions.  
+Design
+895*
+
+20211120
+复习: 146√, 297√, 895*√
+Amazon top questions.  
+Arrays and Strings
+3√, 8√, 12*√, 15
+
+20211121
+复习: 895, 12
+Amazon top questions.  
+Arrays and Strings
