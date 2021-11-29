@@ -31,3 +31,26 @@
 ---
 
 ### Trees and Graphs
+
+- [98 | Validate Binary Search Tree \*\*\*](https://leetcode.com/problems/validate-binary-search-tree/)
+- [103 | Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+- [127 | Word Ladder \*\*\*](https://leetcode.com/problems/word-ladder/)
+- [126 | Word Ladder II \*\*\*](https://leetcode.com/problems/word-ladder-ii/)
+- [200 | Number of Islands](https://leetcode.com/problems/number-of-islands/)
+- [207 | Course Schedule \*\*\*](https://leetcode.com/problems/course-schedule/)
+- [236 | Lowest Common Ancestor of a Binary Tree \*](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+- [675 | Cut Off Trees for Golf Event \*\*\*](https://leetcode.com/problems/cut-off-trees-for-golf-event/)
+
+---
+
+### Recursion
+
+- [17 | Letter Combinations of a Phone Number \*](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+- [79 | Word Search](https://leetcode.com/problems/word-search/)
+
+---
+
+### Dynamic Programming
+
+- [5 | Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+- [139 | Word Break](https://leetcode.com/problems/word-break/)
