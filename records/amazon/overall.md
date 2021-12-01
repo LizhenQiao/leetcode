@@ -52,5 +52,41 @@
 
 ### Dynamic Programming
 
-- [5 | Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
-- [139 | Word Break](https://leetcode.com/problems/word-break/)
+- [5 | Longest Palindromic Substring \*](https://leetcode.com/problems/longest-palindromic-substring/)
+- [139 | Word Break \*](https://leetcode.com/problems/word-break/)
+
+---
+
+### Sorting and Searching
+
+- [33 | Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+- [56 | Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+- [215 | Kth Largest Element in an Array \*\*\* (Quick Select)](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+- [973 | K Closest Points to Origin \*](https://leetcode.com/problems/k-closest-points-to-origin/)
+
+---
+
+### Others
+
+- [763 | Partition Labels](https://leetcode.com/problems/partition-labels/)
+- [957 | Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/)
+
+---
+
+### Design
+
+- [146 | LRU Cache \*\*\*](https://leetcode.com/problems/lru-cache/)
+- [295 | Find Median from Data Stream \*](https://leetcode.com/problems/find-median-from-data-stream/)
+- [297 | Serialize and Deserialize Binary Tree \*](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
+- [895 | Maximum Frequency Stack \*\*\*](https://leetcode.com/problems/maximum-frequency-stack/)
+
+---
+
+###TODO
+
+- [215 | Kth Largest Element in an Array \*\*\* (Quick Select)](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+- [675 | Cut Off Trees for Golf Event \*\*\*](https://leetcode.com/problems/cut-off-trees-for-golf-event/)
+- [212 | Word Search II \*\*\*](https://leetcode.com/problems/word-search-ii/)
+- [4 | Median of Two Sorted Arrays \*\*\*](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+- [973 | K Closest Points to Origin \*](https://leetcode.com/problems/k-closest-points-to-origin/)
+- [642 | Design Search Autocomplete System \*\*\*](https://leetcode.com/problems/design-search-autocomplete-system/)
