@@ -1,12 +1,11 @@
-```
-Keys:
-- Keep dry days in the list
-  use the dryday to dry the lake until we get a rain on the lake which was already rained before.
+# Keys:
+# - Keep dry days in the list
+#   use the dryday to dry the lake until we get a rain on the lake which was already rained before.
 
-Complexity:
-Time: O(n^2)
+# Complexity:
+# Time: O(n^2)
 
-Code:
+# Code:
 class Solution:
     def avoidFlood(self, rains: List[int]) -> List[int]:
         n = len(rains)
@@ -33,5 +32,3 @@ class Solution:
                         if j == len(dryDays) - 1 and dryDays[j] <= fullLakes[rains[i]]:
                             return []
         return result
-
-```

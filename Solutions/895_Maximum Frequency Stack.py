@@ -1,13 +1,15 @@
-```
-Keys:
-self.maxf = 0
-self.counter = collections.defaultdict(int)
-self.layer = collections.defaultdict(list)
+# Keys:
+# self.maxf = 0
+# self.counter = collections.defaultdict(int)
+# self.layer = collections.defaultdict(list)
 
-Complexity:
-Time: O(1)
+# Complexity:
+# Time: O(1)
 
-Code:
+# Code:
+import collections
+
+
 class FreqStack:
 
     def __init__(self):
@@ -29,5 +31,3 @@ class FreqStack:
             self.maxf -= 1
             del self.layer[self.maxf + 1]
         return popnum
-
-```

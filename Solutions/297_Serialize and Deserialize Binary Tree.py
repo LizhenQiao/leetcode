@@ -1,11 +1,10 @@
-```
-Keys:
-DFS with "None" value
+# Keys:
+# DFS with "None" value
 
-Complexity:
-Time: O(n)
+# Complexity:
+# Time: O(n)
 
-Code:
+# Code:
 class Codec:
 
     def serialize(self, root):
@@ -22,7 +21,6 @@ class Codec:
         helper(root)
         return self.resultstr
 
-
     def deserialize(self, data):
         lst = data.split("*")[:-1]
 
@@ -36,4 +34,3 @@ class Codec:
             return root
 
         return buildTree()
-```

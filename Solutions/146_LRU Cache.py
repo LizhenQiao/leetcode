@@ -1,13 +1,14 @@
-```
-Keys:
-OrderedDict
-- move_to_end()
-- popitem()
+# Keys:
+# OrderedDict
+# - move_to_end()
+# - popitem()
 
-Complexity:
-Time: O(1)
+# Complexity:
+# Time: O(1)
 
-Code:
+# Code:
+import collections
+
 
 class LRUCache:
 
@@ -31,5 +32,3 @@ class LRUCache:
                 self.freespace -= 1
 
         self.dct[key] = value
-
-```
