@@ -101,6 +101,52 @@ Arrays and Strings
 3√, 8√, 12*√, 15
 
 20211121
-复习: 895, 12
+复习: 895*, 12
 Amazon top questions.  
 Arrays and Strings
+
+20211122
+复习: 895√, 12√
+
+20211124
+复习
+Amazon top questions.  
+Arrays and Strings
+76*,273*, 819√, 937*
+Amazon top questions.  
+Linked Lists
+25*√, 23*
+
+20211127
+复习
+Amazon top questions.  
+Arrays and Strings
+76√, 273√, 937√
+Amazon top questions.  
+Linked Lists
+25√, 23√
+Amazon top questions.  
+Trees and Graphs
+98*, 103√, 127*, 126*√
+
+20211129
+复习: 98√, 127√, 126√
+Amazon top questions.  
+Trees and Graphs
+200√, 207*, 236*√, 675*
+Amazon top questions.  
+Recursion
+17*√, 79√
+Amazon top questions.  
+Dynamic Programming
+5*√, 139*√, 
+
+20211130
+复习:
+207√, 236√, 675, 17√, 5√, 139√
+Amazon top questions.  
+Sorting and Searching
+33√, 56√, 215* quick select algorithm, 973*
+Amazon top questions.  
+Others
+763√, 957*
