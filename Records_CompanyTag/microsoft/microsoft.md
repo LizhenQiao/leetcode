@@ -13,7 +13,7 @@
 ### Arrays and Strings
 
 - [42 | Trapping Rain Water \*\*](https://leetcode.com/problems/trapping-rain-water/)
-- [54 | Spiral Matrix \*](https://leetcode.com/problems/spiral-matrix/)
+- [54 | Spiral Matrix \*](https://leetcode.com/problems/spiral-matrix/) -[solution](../../Solutions/54_Spiral%20Matrix.py)
 
 ---
 
@@ -54,6 +54,7 @@
 - [449 | Serialize and Deserialize BST \*](https://leetcode.com/problems/serialize-and-deserialize-bst/)
 
 - [146 | LRU Cache \*](https://leetcode.com/problems/lru-cache/)
+  - [solution](../../Solutions/146_LRU%20Cache.py)
 
 ---
 

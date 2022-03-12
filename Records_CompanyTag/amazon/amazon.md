@@ -14,11 +14,13 @@
 
 - [3 | Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [8 | String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
+  - [solution](<../../Solutions/8_String%20to%20Integer%20(atoi).py>)
 - [12 | Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
 - [15 | 3Sum](https://leetcode.com/problems/3sum/)
 - [76 | Minimum Window Substring \*\*\*](https://leetcode.com/problems/minimum-window-substring/)
 - [273 | Integer to English Words \*\*\*](https://leetcode.com/problems/integer-to-english-words/)
 - [819 | Most Common Word](https://leetcode.com/problems/most-common-word/)
+  - [solution](../../Solutions/819_Most%20Common%20Word.py)
 - [937 | Reorder Data in Log Files \*\*\*](https://leetcode.com/problems/reorder-data-in-log-files/)
 
 ---
@@ -27,6 +29,7 @@
 
 - [25 | Reverse Nodes in k-Group \*\*\*](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 - [23 | Merge k Sorted Lists \*\*\*](https://leetcode.com/problems/merge-k-sorted-lists/)
+  - [solution](../../Solutions/23_Merge%20k%20Sorted%20Lists.py)
 
 ---
 
@@ -36,6 +39,7 @@
 - [103 | Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
 - [127 | Word Ladder \*\*\*](https://leetcode.com/problems/word-ladder/)
 - [126 | Word Ladder II \*\*\*](https://leetcode.com/problems/word-ladder-ii/)
+  - [solution](../../Solutions/126_Word%20Ladder%20II.py)
 - [200 | Number of Islands](https://leetcode.com/problems/number-of-islands/)
 - [207 | Course Schedule \*\*\*](https://leetcode.com/problems/course-schedule/)
 - [236 | Lowest Common Ancestor of a Binary Tree \*](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
@@ -76,9 +80,12 @@
 ### Design
 
 - [146 | LRU Cache \*\*\*](https://leetcode.com/problems/lru-cache/)
+  - [solution](../../Solutions/146_LRU%20Cache.py)
 - [295 | Find Median from Data Stream \*](https://leetcode.com/problems/find-median-from-data-stream/)
 - [297 | Serialize and Deserialize Binary Tree \*](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
+  - [solution](../../Solutions/297_Serialize%20and%20Deserialize%20Binary%20Tree.py)
 - [895 | Maximum Frequency Stack \*\*\*](https://leetcode.com/problems/maximum-frequency-stack/)
+  - [solution](../../Solutions/895_Maximum%20Frequency%20Stack.py)
 
 ---
 

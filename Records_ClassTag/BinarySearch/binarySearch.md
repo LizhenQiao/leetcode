@@ -10,4 +10,6 @@
 
 - [146 | LRU Cache \*](https://leetcode.com/problems/lru-cache/)
 
+  - [solution](../../Solutions/146_LRU%20Cache.py)
+
 - [218 | The Skyline Problem \*\*\*](https://leetcode.com/problems/the-skyline-problem/)
