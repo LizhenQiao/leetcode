@@ -1,10 +1,15 @@
-# Keys:
-# DFS with "None" value
+"""
+Keys:
+DFS with "None" value
 
-# Complexity:
-# Time: O(n)
+Complexity:
+Time: O(n)
 
-# Code:
+Code:
+
+"""
+
+
 class Codec:
 
     def serialize(self, root):
