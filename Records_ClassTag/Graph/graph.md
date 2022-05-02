@@ -159,6 +159,10 @@ Surely makes it easier to understand.
 
 ### Problems:
 
+- [210 | Course Schedule II \*\*](https://leetcode.com/problems/course-schedule-ii/)
+
+  - [solution](../../Solutions/210_Course%20Schedule%20II.py)
+
 - [310 | Minimum Height Trees \*\*\*](https://leetcode.com/problems/minimum-height-trees/)
 
   - [solution](../../Solutions/310_Minimum%20Height%20Trees.py)
