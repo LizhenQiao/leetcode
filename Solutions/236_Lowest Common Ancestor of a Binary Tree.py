@@ -1,13 +1,14 @@
 """
 Keys:
-- A classic question of Binary Tree.
+- A classic question of Binary Tree. Here we perform a DFS, when two of a node's left child, right child, and itself have p or q,
+  it is then obviously the lca.
 - While analyzing space complexity of recursion, we need to take call stack of function into consideration. 
 
 Complexity:
 Time: O(n)
 Space: O(n)
 
-This is because the maximum amount of space utilized by the recursion stack would be NN since the height of
+This is because the maximum amount of space utilized by the recursion stack would be N since the height of
 a skewed binary tree could be N.
 While analyzing space complexity of recursion, we need to take call stack of function into consideration. 
 """

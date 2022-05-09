@@ -1,6 +1,7 @@
 """
 Keys:
-- Firstly, we figure out how many left parentheses and right parentheses we need to delete.
+- Firstly, we figure out how many left parentheses and right parentheses we need to delete. (Understand the way we could 
+  determine how many opening parentheses and closing parentheses to remove.)
 - Then we perform a normal recursion with backtracking to enumerate every possible sequences(After delete certain number
   of parentheses.)
 - Finally, filter out the valid ones.
