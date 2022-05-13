@@ -1,6 +1,7 @@
 """
 Keys:
 - The solution is interesting and clever. Use `mod calculation`, `prefix sum` and `hash table` to make this check O(n). 
+- The initial dct has "0: -1", it is easy to overlook.
 
 Complexity:
 Time: O(n)

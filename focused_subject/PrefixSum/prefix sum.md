@@ -18,11 +18,15 @@
 
   - [solution](../../Solutions/1658_Minimum%20Operations%20to%20Reduce%20X%20to%20Zero.py)
 
+- [304 | Range Sum Query 2D - Immutable \*\*](https://leetcode.com/problems/range-sum-query-2d-immutable/)
+
+  - [solution](../../Solutions/304_Range%20Sum%20Query%202D%20-%20Immutable.py)
+
 ---
 
 ## Summary
 
-Usually we try to solve a problem with `Prefix Sum` when the question ask something like "Sum of subarray". The logic here is that we could easily get any subarray's sum by calculating `Prefix Sum` in advance. It is only a one-pass O(n) time complexity.
+Usually we try to solve a problem using `Prefix Sum` when the question ask something related to "Sum of subarray". The logic here is that we could easily get any subarray's sum by calculating `Prefix Sum` in advance. Furthermore, combined with a hash table, we could make some check process in O(1) time. This is typically why and when we perform a `prefix sum` in an algorithm, it is a one-pass O(n) time complexity.
 
 Examples above are some of the classic questions using prefix sum.
 
